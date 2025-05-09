@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BG1RmvUkG20HobQgJkqTCJ1W1n47J0o+y8RDoZ4gvp8=",
+  "Source": "BackgroundTasksExample",
+  "BasePath": "_content/BackgroundTasksExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
